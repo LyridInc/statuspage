@@ -1,29 +1,31 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: LyridInc # Your GitHub username
+repo: statuspage # Your GitHub repository name
 
+# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Home
+    url: https://lyrid.io
+  - name: API Server
+    url: https://api.lyrid.io/version
+  - name: Authentication Server
+    url: https://id.lyrid.io/version
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  # cname: demo.upptime.js.org
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  baseUrl: /statuspage
+  logoUrl: https://lyrid.io/assets/images/resources/logo_transparent.png
+  favicon: https://lyrid.io/assets/images/favicons/apple-touch-icon.png
+  name: "Lyrid's Status Page"
+  themeUrl: https://appify.org/lyrid.css
+  introTitle: "Lyrid's Status Page"
   navbar:
-    - title: Status
+    - title: Status Page
       href: /
+    - title: Lyrid
+      href: https://www.lyrid.io
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
