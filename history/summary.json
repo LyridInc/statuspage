@@ -1,7 +1,7 @@
 [
   {
     "name": "Home",
-    "url": "https://lyrid.io",
+    "url": "https://lyrid.io/assets/images/resources/logo_transparent.png",
     "icon": "https://favicons.githubusercontent.com/lyrid.io",
     "slug": "home",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 571,
-    "timeWeek": 571,
-    "timeMonth": 571,
-    "timeYear": 571,
+    "time": 504,
+    "timeDay": 504,
+    "timeWeek": 504,
+    "timeMonth": 504,
+    "timeYear": 504,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 161,
-    "timeDay": 161,
-    "timeWeek": 161,
-    "timeMonth": 161,
-    "timeYear": 161,
+    "time": 190,
+    "timeDay": 190,
+    "timeWeek": 190,
+    "timeMonth": 190,
+    "timeYear": 190,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 186,
-    "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "time": 213,
+    "timeDay": 213,
+    "timeWeek": 213,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   }
 ]
