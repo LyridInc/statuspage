@@ -5,7 +5,7 @@ repo: statuspage # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Home
-    url: https://lyrid.io
+    url: https://lyrid.io/assets/images/resources/logo_transparent.png
   - name: API Server
     url: https://api.lyrid.io/version
   - name: Authentication Server
