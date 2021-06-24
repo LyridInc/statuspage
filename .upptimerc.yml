@@ -4,8 +4,10 @@ repo: statuspage # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Home
+  - name: Home - Landing Page
     url: https://lyrid.io/assets/images/resources/logo_transparent.png
+  - name: Documentation Page
+    url: https://docs.lyrid.io/img/lyridsvg.svg
   - name: API Server
     url: https://api.lyrid.io/version
   - name: Authentication Server
