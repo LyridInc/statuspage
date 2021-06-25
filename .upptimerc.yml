@@ -12,7 +12,13 @@ sites:
     url: https://api.lyrid.io/version
   - name: Authentication Server
     url: https://id.lyrid.io/version
-
+  - name: Edge Compute Cluster - US West
+    url: https://uswest1-vega.lyrid.io/version
+  - name: Edge Compute Cluster - Asia Pacific
+    url: https://apsoutheast1-vega.lyrid.io/version
+  - name: Edge Compute Cluster - Europe Central
+    url: https://eucentral1-vega.lyrid.io/version    
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.lyrid.io
