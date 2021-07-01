@@ -114,9 +114,9 @@
     "url": "https://eucentral1-vega.lyrid.io/version",
     "icon": "https://favicons.githubusercontent.com/eucentral1-vega.lyrid.io",
     "slug": "edge-compute-cluster-europe-central",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,6 +125,8 @@
     "timeWeek": 391,
     "timeMonth": 391,
     "timeYear": 391,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-01": 0
+    }
   }
 ]
