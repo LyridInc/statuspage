@@ -4,9 +4,9 @@
     "url": "https://lyrid.io/assets/images/resources/logo_transparent.png",
     "icon": "https://favicons.githubusercontent.com/lyrid.io",
     "slug": "home-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 250,
     "timeMonth": 240,
     "timeYear": 240,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-06": 0
+    }
   },
   {
     "name": "Documentation Page",
