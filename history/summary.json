@@ -50,9 +50,9 @@
     "url": "https://api.lyrid.io/version",
     "icon": "https://favicons.githubusercontent.com/api.lyrid.io",
     "slug": "api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -61,7 +61,9 @@
     "timeWeek": 175,
     "timeMonth": 202,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-13": 0
+    }
   },
   {
     "name": "Authentication Server",
