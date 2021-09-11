@@ -121,7 +121,7 @@
     "url": "https://apsoutheast1-vega.lyrid.io/version",
     "icon": "https://favicons.githubusercontent.com/apsoutheast1-vega.lyrid.io",
     "slug": "edge-compute-cluster-asia-pacific",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "99.89%",
     "uptimeWeek": "99.98%",
