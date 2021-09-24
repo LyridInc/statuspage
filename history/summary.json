@@ -63,10 +63,10 @@
     "url": "https://api.lyrid.io/version",
     "icon": "https://favicons.githubusercontent.com/api.lyrid.io",
     "slug": "api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.53%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 195,
@@ -75,7 +75,7 @@
     "timeMonth": 181,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2021-09-24": 2,
+      "2021-09-24": 3,
       "2021-09-17": 46,
       "2021-08-13": 12
     }
@@ -114,9 +114,9 @@
     "url": "https://uswest1-vega.lyrid.io/version",
     "icon": "https://favicons.githubusercontent.com/uswest1-vega.lyrid.io",
     "slug": "edge-compute-cluster-us-west",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
@@ -126,6 +126,7 @@
     "timeMonth": 177,
     "timeYear": 189,
     "dailyMinutesDown": {
+      "2021-09-24": 0,
       "2021-09-17": 44
     }
   },
