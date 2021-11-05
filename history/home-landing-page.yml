@@ -1,7 +1,7 @@
 url: https://lyrid.io/assets/images/resources/logo_transparent.png
-status: up
-code: 200
-responseTime: 136
-lastUpdated: 2021-11-04T23:07:24.767Z
+status: down
+code: 500
+responseTime: 276
+lastUpdated: 2021-11-05T01:55:14.768Z
 startTime: Thu Jun 24 2021 17:38:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
