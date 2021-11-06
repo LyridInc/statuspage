@@ -1,7 +1,7 @@
 url: https://docs.lyrid.io/img/lyridsvg.svg
-status: up
-code: 200
-responseTime: 90
-lastUpdated: 2021-11-06T09:52:17.708Z
+status: down
+code: 500
+responseTime: 83
+lastUpdated: 2021-11-06T11:14:20.106Z
 startTime: Thu Jun 24 2021 17:38:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
