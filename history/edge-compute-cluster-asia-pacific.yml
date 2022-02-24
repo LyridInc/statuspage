@@ -1,7 +1,7 @@
 url: https://apsoutheast1-vega.lyrid.io/version
-status: down
-code: 503
-responseTime: 581
-lastUpdated: 2022-02-24T10:30:17.902Z
+status: up
+code: 200
+responseTime: 728
+lastUpdated: 2022-02-24T10:31:15.591Z
 startTime: Fri Jun 25 2021 13:23:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
