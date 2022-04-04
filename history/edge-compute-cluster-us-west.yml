@@ -1,7 +1,7 @@
 url: https://uswest1-vega.lyrid.io/version
-status: down
-code: 503
-responseTime: 273
-lastUpdated: 2022-04-04T05:25:52.101Z
+status: up
+code: 200
+responseTime: 100
+lastUpdated: 2022-04-04T05:29:46.433Z
 startTime: Fri Jun 25 2021 13:23:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
