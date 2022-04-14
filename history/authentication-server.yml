@@ -1,7 +1,7 @@
 url: https://id.lyrid.io/version
-status: up
-code: 200
-responseTime: 102
-lastUpdated: 2022-04-13T23:01:48.271Z
+status: down
+code: 502
+responseTime: 269
+lastUpdated: 2022-04-14T04:35:12.866Z
 startTime: Wed Jun 23 2021 20:30:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
