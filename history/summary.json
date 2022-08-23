@@ -12,7 +12,7 @@
     "uptimeYear": "94.63%",
     "time": 302,
     "timeDay": 304,
-    "timeWeek": 558,
+    "timeWeek": 592,
     "timeMonth": 401,
     "timeYear": 282,
     "dailyMinutesDown": {
@@ -57,7 +57,7 @@
     "icon": "https://favicons.githubusercontent.com/api.lyrid.io",
     "slug": "api-server",
     "status": "up",
-    "uptime": "93.08%",
+    "uptime": "93.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -118,7 +118,7 @@
     "uptimeYear": "97.31%",
     "time": 322,
     "timeDay": 290,
-    "timeWeek": 577,
+    "timeWeek": 627,
     "timeMonth": 384,
     "timeYear": 335,
     "dailyMinutesDown": {
@@ -181,9 +181,9 @@
     "url": "https://apsoutheast1-vega.lyrid.io/version",
     "icon": "https://favicons.githubusercontent.com/apsoutheast1-vega.lyrid.io",
     "slug": "edge-compute-cluster-asia-pacific",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -193,6 +193,7 @@
     "timeMonth": 926,
     "timeYear": 673,
     "dailyMinutesDown": {
+      "2022-08-23": 0,
       "2022-03-26": 43,
       "2021-09-11": 2
     }
