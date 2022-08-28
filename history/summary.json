@@ -57,7 +57,7 @@
     "icon": "https://favicons.githubusercontent.com/api.lyrid.io",
     "slug": "api-server",
     "status": "up",
-    "uptime": "93.16%",
+    "uptime": "93.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -111,7 +111,7 @@
     "icon": "https://favicons.githubusercontent.com/id.lyrid.io",
     "slug": "authentication-server",
     "status": "up",
-    "uptime": "97.71%",
+    "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -181,9 +181,9 @@
     "url": "https://apsoutheast1-vega.lyrid.io/version",
     "icon": "https://favicons.githubusercontent.com/apsoutheast1-vega.lyrid.io",
     "slug": "edge-compute-cluster-asia-pacific",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -193,6 +193,7 @@
     "timeMonth": 1925,
     "timeYear": 800,
     "dailyMinutesDown": {
+      "2022-08-28": 0,
       "2022-03-26": 43,
       "2021-09-11": 2
     }
