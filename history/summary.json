@@ -11,7 +11,7 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "94.65%",
     "time": 321,
-    "timeDay": 623,
+    "timeDay": 508,
     "timeWeek": 513,
     "timeMonth": 527,
     "timeYear": 310,
@@ -106,7 +106,7 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "97.33%",
     "time": 331,
-    "timeDay": 823,
+    "timeDay": 190,
     "timeWeek": 544,
     "timeMonth": 393,
     "timeYear": 325,
@@ -156,9 +156,9 @@
     "url": "https://apsoutheast1-vega.lyrid.io/version",
     "icon": "https://icons.duckduckgo.com/ip3/apsoutheast1-vega.lyrid.io.ico",
     "slug": "edge-compute-cluster-asia-pacific",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -168,6 +168,7 @@
     "timeMonth": 660,
     "timeYear": 816,
     "dailyMinutesDown": {
+      "2022-10-25": 0,
       "2022-03-26": 43
     }
   },
