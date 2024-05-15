@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.lyrid.io.ico",
     "slug": "documentation-page",
     "status": "up",
-    "uptime": "96.93%",
+    "uptime": "96.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.28%",
     "uptimeYear": "98.32%",
-    "time": 619,
-    "timeDay": 81,
-    "timeWeek": 297,
-    "timeMonth": 329,
-    "timeYear": 596,
+    "time": 620,
+    "timeDay": 485,
+    "timeWeek": 407,
+    "timeMonth": 344,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2024-04-18": 209,
       "2024-04-17": 1420,
@@ -27,8 +27,7 @@
       "2023-12-06": 147,
       "2023-12-05": 3,
       "2023-10-20": 45,
-      "2023-10-19": 175,
-      "2023-05-15": 16
+      "2023-10-19": 175
     }
   },
   {
@@ -42,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "97.52%",
-    "time": 362,
-    "timeDay": 35,
-    "timeWeek": 274,
-    "timeMonth": 551,
-    "timeYear": 396,
+    "time": 363,
+    "timeDay": 265,
+    "timeWeek": 268,
+    "timeMonth": 554,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2024-04-28": 85,
       "2024-04-27": 16,
@@ -73,7 +72,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.lyrid.io.ico",
     "slug": "authentication-server",
     "status": "down",
-    "uptime": "49.02%",
+    "uptime": "48.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -84,7 +83,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-13": 21,
+      "2024-05-15": 20,
+      "2024-05-14": 1440,
+      "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
@@ -446,9 +447,7 @@
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
-      "2023-05-17": 1440,
-      "2023-05-16": 1440,
-      "2023-05-15": 1440
+      "2023-05-17": 1440
     }
   },
   {
@@ -457,7 +456,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/uswest1-vega.lyrid.io.ico",
     "slug": "edge-compute-cluster-us-west",
     "status": "down",
-    "uptime": "49.92%",
+    "uptime": "49.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -468,7 +467,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-13": 21,
+      "2024-05-15": 20,
+      "2024-05-14": 1440,
+      "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
@@ -830,9 +831,7 @@
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
-      "2023-05-17": 1440,
-      "2023-05-16": 1440,
-      "2023-05-15": 1440
+      "2023-05-17": 1440
     }
   },
   {
@@ -841,7 +840,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apsoutheast1-vega.lyrid.io.ico",
     "slug": "edge-compute-cluster-asia-pacific",
     "status": "down",
-    "uptime": "50.48%",
+    "uptime": "50.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -852,7 +851,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-13": 21,
+      "2024-05-15": 20,
+      "2024-05-14": 1440,
+      "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
@@ -1214,9 +1215,7 @@
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
-      "2023-05-17": 1440,
-      "2023-05-16": 1440,
-      "2023-05-15": 1440
+      "2023-05-17": 1440
     }
   },
   {
@@ -1225,7 +1224,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eucentral1-vega.lyrid.io.ico",
     "slug": "edge-compute-cluster-europe-central",
     "status": "down",
-    "uptime": "50.20%",
+    "uptime": "50.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1236,7 +1235,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-13": 21,
+      "2024-05-15": 20,
+      "2024-05-14": 1440,
+      "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
@@ -1598,9 +1599,7 @@
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
-      "2023-05-17": 1440,
-      "2023-05-16": 1440,
-      "2023-05-15": 1440
+      "2023-05-17": 1440
     }
   }
 ]
