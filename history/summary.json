@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.89%",
+    "uptimeYear": "93.17%",
     "time": 598,
-    "timeDay": 578,
-    "timeWeek": 441,
-    "timeMonth": 472,
+    "timeDay": 472,
+    "timeWeek": 408,
+    "timeMonth": 474,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2025-01-17": 33,
@@ -45,8 +45,7 @@
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
-      "2024-07-02": 292,
-      "2024-04-18": 209
+      "2024-07-02": 292
     }
   },
   {
@@ -55,15 +54,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.lyrid.io.ico",
     "slug": "api-server",
     "status": "up",
-    "uptime": "95.61%",
+    "uptime": "95.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.12%",
     "uptimeYear": "98.47%",
     "time": 384,
-    "timeDay": 418,
-    "timeWeek": 306,
-    "timeMonth": 454,
+    "timeDay": 421,
+    "timeWeek": 298,
+    "timeMonth": 462,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2025-03-29": 1159,
@@ -84,7 +83,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.lyrid.io.ico",
     "slug": "authentication-server",
     "status": "down",
-    "uptime": "37.09%",
+    "uptime": "37.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -95,7 +94,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-17": 27,
+      "2025-04-18": 27,
+      "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -458,8 +458,7 @@
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
-      "2024-04-19": 1440,
-      "2024-04-18": 1440
+      "2024-04-19": 1440
     }
   },
   {
@@ -468,7 +467,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/uswest1-vega.lyrid.io.ico",
     "slug": "edge-compute-cluster-us-west",
     "status": "down",
-    "uptime": "37.76%",
+    "uptime": "37.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -479,7 +478,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-17": 27,
+      "2025-04-18": 27,
+      "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -842,8 +842,7 @@
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
-      "2024-04-19": 1440,
-      "2024-04-18": 1440
+      "2024-04-19": 1440
     }
   },
   {
@@ -852,7 +851,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apsoutheast1-vega.lyrid.io.ico",
     "slug": "edge-compute-cluster-asia-pacific",
     "status": "down",
-    "uptime": "38.18%",
+    "uptime": "38.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -863,7 +862,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-17": 27,
+      "2025-04-18": 27,
+      "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -1226,8 +1226,7 @@
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
-      "2024-04-19": 1440,
-      "2024-04-18": 1440
+      "2024-04-19": 1440
     }
   },
   {
@@ -1236,7 +1235,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eucentral1-vega.lyrid.io.ico",
     "slug": "edge-compute-cluster-europe-central",
     "status": "down",
-    "uptime": "37.97%",
+    "uptime": "37.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1247,7 +1246,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-17": 27,
+      "2025-04-18": 27,
+      "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -1610,8 +1610,7 @@
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
-      "2024-04-19": 1440,
-      "2024-04-18": 1440
+      "2024-04-19": 1440
     }
   }
 ]
