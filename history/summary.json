@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.lyrid.io.ico",
     "slug": "documentation-page",
     "status": "up",
-    "uptime": "96.10%",
+    "uptime": "96.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "93.18%",
-    "time": 632,
-    "timeDay": 590,
-    "timeWeek": 489,
-    "timeMonth": 539,
-    "timeYear": 736,
+    "uptimeYear": "93.51%",
+    "time": 633,
+    "timeDay": 379,
+    "timeWeek": 470,
+    "timeMonth": 531,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2025-06-12": 77,
       "2025-05-23": 45,
@@ -44,10 +44,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440,
-      "2024-07-03": 1440,
-      "2024-07-02": 292
+      "2024-07-05": 1440
     }
   },
   {
@@ -56,16 +53,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.lyrid.io.ico",
     "slug": "api-server",
     "status": "up",
-    "uptime": "95.83%",
+    "uptime": "95.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "98.47%",
-    "time": 379,
-    "timeDay": 444,
-    "timeWeek": 269,
-    "timeMonth": 291,
-    "timeYear": 337,
+    "time": 337,
+    "timeDay": 48,
+    "timeWeek": 240,
+    "timeMonth": 265,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2025-06-12": 71,
       "2025-05-23": 4,
@@ -85,7 +82,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.lyrid.io.ico",
     "slug": "authentication-server",
     "status": "down",
-    "uptime": "35.20%",
+    "uptime": "35.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -96,7 +93,10 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-01": 34,
+      "2025-07-04": 29,
+      "2025-07-03": 1440,
+      "2025-07-02": 1440,
+      "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -457,10 +457,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440,
-      "2024-07-03": 1440,
-      "2024-07-02": 1440
+      "2024-07-05": 1440
     }
   },
   {
@@ -469,7 +466,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/uswest1-vega.lyrid.io.ico",
     "slug": "edge-compute-cluster-us-west",
     "status": "down",
-    "uptime": "35.83%",
+    "uptime": "35.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -480,7 +477,10 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-01": 34,
+      "2025-07-04": 29,
+      "2025-07-03": 1440,
+      "2025-07-02": 1440,
+      "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -841,10 +841,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440,
-      "2024-07-03": 1440,
-      "2024-07-02": 1440
+      "2024-07-05": 1440
     }
   },
   {
@@ -853,7 +850,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apsoutheast1-vega.lyrid.io.ico",
     "slug": "edge-compute-cluster-asia-pacific",
     "status": "down",
-    "uptime": "36.23%",
+    "uptime": "36.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -864,7 +861,10 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-01": 34,
+      "2025-07-04": 29,
+      "2025-07-03": 1440,
+      "2025-07-02": 1440,
+      "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -1225,10 +1225,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440,
-      "2024-07-03": 1440,
-      "2024-07-02": 1440
+      "2024-07-05": 1440
     }
   },
   {
@@ -1237,7 +1234,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eucentral1-vega.lyrid.io.ico",
     "slug": "edge-compute-cluster-europe-central",
     "status": "down",
-    "uptime": "36.03%",
+    "uptime": "35.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1248,7 +1245,10 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-01": 34,
+      "2025-07-04": 29,
+      "2025-07-03": 1440,
+      "2025-07-02": 1440,
+      "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -1609,10 +1609,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440,
-      "2024-07-03": 1440,
-      "2024-07-02": 1440
+      "2024-07-05": 1440
     }
   }
 ]
