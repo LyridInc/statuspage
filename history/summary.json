@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.lyrid.io.ico",
     "slug": "documentation-page",
     "status": "up",
-    "uptime": "95.46%",
-    "uptimeDay": "97.67%",
+    "uptime": "95.47%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.51%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "95.40%",
-    "time": 602,
-    "timeDay": 518,
-    "timeWeek": 3979,
-    "timeMonth": 1699,
+    "time": 598,
+    "timeDay": 275,
+    "timeWeek": 3955,
+    "timeMonth": 1707,
     "timeYear": 654,
     "dailyMinutesDown": {
       "2025-12-07": 34,
@@ -47,15 +47,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.lyrid.io.ico",
     "slug": "api-server",
     "status": "up",
-    "uptime": "94.88%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "15.10%",
+    "uptime": "94.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "43.68%",
     "uptimeMonth": "27.09%",
     "uptimeYear": "92.50%",
     "time": 398,
-    "timeDay": 4655,
-    "timeWeek": 1420,
-    "timeMonth": 544,
+    "timeDay": 44,
+    "timeWeek": 1375,
+    "timeMonth": 552,
     "timeYear": 437,
     "dailyMinutesDown": {
       "2025-12-07": 32,
@@ -99,7 +99,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.lyrid.io.ico",
     "slug": "authentication-server",
     "status": "down",
-    "uptime": "31.74%",
+    "uptime": "31.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -110,7 +110,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-08": 31,
+      "2025-12-10": 31,
+      "2025-12-09": 1440,
+      "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
@@ -472,9 +474,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1440
+      "2024-12-11": 1440
     }
   },
   {
@@ -483,7 +483,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/uswest1-vega.lyrid.io.ico",
     "slug": "edge-compute-cluster-us-west",
     "status": "down",
-    "uptime": "32.30%",
+    "uptime": "32.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -494,7 +494,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-08": 31,
+      "2025-12-10": 31,
+      "2025-12-09": 1440,
+      "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
@@ -856,9 +858,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1440
+      "2024-12-11": 1440
     }
   },
   {
@@ -867,7 +867,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apsoutheast1-vega.lyrid.io.ico",
     "slug": "edge-compute-cluster-asia-pacific",
     "status": "down",
-    "uptime": "32.66%",
+    "uptime": "32.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -878,7 +878,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-08": 31,
+      "2025-12-10": 31,
+      "2025-12-09": 1440,
+      "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
@@ -1240,9 +1242,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1440
+      "2024-12-11": 1440
     }
   },
   {
@@ -1251,7 +1251,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eucentral1-vega.lyrid.io.ico",
     "slug": "edge-compute-cluster-europe-central",
     "status": "down",
-    "uptime": "32.49%",
+    "uptime": "32.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1262,7 +1262,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-08": 31,
+      "2025-12-10": 31,
+      "2025-12-09": 1440,
+      "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
@@ -1624,9 +1626,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1440
+      "2024-12-11": 1440
     }
   }
 ]
